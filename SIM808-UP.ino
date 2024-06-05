@@ -8,7 +8,7 @@
 const char BROKER[] = "5.tcp.eu.ngrok.io";
 const int MQTT_PORT = 18430;
 const char TOPIC_GPS[] = "proj2.0/gps";
-const char AUTHORIZED_NUMBER[] = "0792449708";
+const char AUTHORIZED_NUMBER[] = "XXXX";
 const int maxGPSData = 10; // Define maximum GPS data storage
 
 // Objects
